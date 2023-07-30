@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+}
+
+input {
+  width: 5vw;
+  background-color: lightgrey;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+}
+
+.inp label {
+  font-size: 1.2rem;
+}
+
+button {
+  margin-left: 1vw;
+  color: white;
+  background-color: green;
+  font-size: 1.2rem;
+  border-radius: 0.3rem;
+}
+
+article {
+  margin: 2vh 20vw;
+}
